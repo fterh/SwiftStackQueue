@@ -1,0 +1,6 @@
+framework module SwiftStackQueue {
+  umbrella header "SwiftStackQueue-umbrella.h"
+
+  export *
+  module * { export * }
+}

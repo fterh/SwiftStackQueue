@@ -1,0 +1,16 @@
+PODS:
+  - SwiftStackQueue (0.1.0)
+
+DEPENDENCIES:
+  - SwiftStackQueue (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftStackQueue:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftStackQueue: be53650a962958b189b9590783615defbcd20efd
+
+PODFILE CHECKSUM: b9809cb008d7b0498a10f2db770edefc58cef0aa
+
+COCOAPODS: 1.5.3
