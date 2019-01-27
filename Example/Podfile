@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftStackQueue_Tests' do
+  pod 'SwiftStackQueue', :path => '../'
+  
+  
+end
