@@ -6,7 +6,7 @@
  - Authors: CS3217
  - Date: 2018
  */
-struct Queue<T> {
+public struct Queue<T> {
     private var arr = [T]()
 
     /// Adds an element to the tail of the queue.

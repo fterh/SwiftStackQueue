@@ -6,7 +6,7 @@
  - Authors: CS3217
  - Date: 2018
  */
-struct Stack<T> {
+public struct Stack<T> {
     private var arr = [T]()
 
     /// Adds an element to the top of the stack.
