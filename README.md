@@ -22,8 +22,6 @@ pod 'SwiftStackQueue'
 
 ## Author
 
-fabianterh@gmail.com, fabianterh@gmail.com
-
 ## License
 
 SwiftStackQueue is available under the MIT license. See the LICENSE file for more info.
